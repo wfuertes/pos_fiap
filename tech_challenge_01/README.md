@@ -1,3 +1,8 @@
+# Grupo
+
+1. Willian Fuertes Batista (wfuertes@gmail.com)
+2. Luiz Guilherme Paro (alura.conta.anthem976@simplelogin.com)
+
 # Tech Challenge - Modelo Preditivo de Custos Médicos
 
 Este repositório contém a solução para o Tech Challenge, que consiste no desenvolvimento de um modelo preditivo de regressão para prever o valor dos custos médicos individuais cobrados pelo seguro de saúde.
@@ -105,7 +110,3 @@ Os principais insights obtidos da análise incluem:
 4. Existem variações regionais nos custos médicos
 
 O modelo desenvolvido pode auxiliar seguradoras de saúde na estimativa mais precisa dos custos médicos individuais, permitindo uma precificação mais justa e personalizada dos planos de saúde.
-
-## Autor
-
-Este projeto foi desenvolvido como parte do Tech Challenge.
