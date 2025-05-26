@@ -1,0 +1,8 @@
+{
+    "java.jdt.ls.java.home": "/home/willian.batista/.local/share/mise/installs/java/graalvm-community-21.0.2",
+    "java.import.gradle.java.home": "/home/willian.batista/.local/share/mise/installs/java/graalvm-community-21.0.2",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/home/willian.batista/.local/share/mise/shims/node"
+    },
+    "python.defaultInterpreterPath": "/home/willian.batista/.local/share/mise/installs/python/3.13.3/bin/python"
+}
