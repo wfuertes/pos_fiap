@@ -1,7 +1,7 @@
 # Grupo 60
 
-1. Willian Fuertes Batista (wfuertes@gmail.com)
-2. Luiz Guilherme Paro (alura.conta.anthem976@simplelogin.com)
+1. Willian Fuertes Batista (RM363154)
+2. Luiz Guilherme Paro (RM363159)
 
 # Tech Challenge - Modelo Preditivo de Custos Médicos
 
@@ -12,13 +12,13 @@ Este repositório contém a solução para o Tech Challenge, que consiste no des
 ```
 tech_challenge_01/
 │
-├── data/                      # Diretório com os dados utilizados
-│   └── dataset-tech-challenge.csv  # Dataset com informações dos segurados
+├── data/                              # Diretório com os dados utilizados
+│   └── dataset-tech-challenge.csv     # Dataset com informações dos segurados
 │
-├── notebooks/                 # Diretório com os notebooks Jupyter
+├── notebooks/                         # Diretório com os notebooks Jupyter
 │   └── tech_challenge_notebook.ipynb  # Notebook principal com explicações
 │
-└── README.md                  # Este arquivo
+└── README.md                          # Este arquivo
 ```
 
 ## Requisitos
@@ -43,12 +43,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/wfuertes/pos_fiap.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd tech_challenge
+   cd pos_fiap/tech_challenge_01
    ```
 
 3. Inicie o Jupyter Notebook ou JupyterLab:
