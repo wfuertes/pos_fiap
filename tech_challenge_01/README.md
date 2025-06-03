@@ -51,12 +51,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy
    cd pos_fiap/tech_challenge_01
    ```
 
-3. Inicie o Jupyter Notebook ou JupyterLab:
-   ```bash
-   jupyter notebook
-   # ou
-   jupyter lab
-   ```
+3. Inicie o Jupyter Notebook:
+Aqui estamos usando o vscode jupyter extention: https://github.com/microsoft/vscode-jupyter
+
+Alternativa mais simples Google Colab: https://colab.research.google.com/drive/1OGGOU9vRIBIVVss39FD_IvTfBSIkCb5r?usp=sharing
+Colocamos uma copia do notebook no google colab.
 
 4. Abra o notebook `notebooks/tech_challenge_notebook_com_explicacoes.ipynb`
 
