@@ -3,6 +3,9 @@
 1. Willian Fuertes Batista (RM363154)
 2. Luiz Guilherme Paro (RM363159)
 
+# Video YouTube
+https://youtu.be/430i9Sos3Gc
+
 # Tech Challenge - Modelo Preditivo de Custos Médicos
 
 Este repositório contém a solução para o Tech Challenge, que consiste no desenvolvimento de um modelo preditivo de regressão para prever o valor dos custos médicos individuais cobrados pelo seguro de saúde.
